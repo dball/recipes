@@ -1,0 +1,47 @@
+# Märzen Madness
+
+* Brewer: Jeffrey Stanton
+* Style: Oktoberfest/Märzen
+* TYPE: All Grain
+
+## Specs
+
+* Boil: 120 min
+* OG: 14.8 brix (1.061 SG)
+* Color: 10.0 SRM
+* IBUs: 26.4
+* Brewhouse Efficiency: 70.0%
+
+## Mash Bill
+
+| Amt | Unit | Name                                  | pct wt |
+|-----|-----:|---------------------------------------|-------:|
+| 1   |  lbs | Rice Hulls (0.0 SRM)                  |  7.7 % |
+| 4   |  lbs | Pilsner (2 Row) Ger (2.0 SRM)         | 30.8 % |
+| 2.5 |  lbs | Vienna Malt (3.5 SRM)                 | 19.2 % |
+| 2   |  lbs | Munich Malt - 10L (10.0 SRM)          | 15.4 % |
+| 1   |  lbs | Aromatic Malt (26.0 SRM)              |  7.7 % |
+| 1   |  lbs | Cara-Pils/Dextrine (2.0 SRM)          |  7.7 % |
+| 1   |  lbs | Caramel/Crystal Malt - 20L (20.0 SRM) |  7.7 % |
+| 8.0 |   oz | Caramel/Crystal Malt - 40L (40.0 SRM) |  3.8 % |
+
+## Mash Schedule
+
+* Total grain weight: 13 lbs
+* Single infusion, medium body, batch sparge
+* Mash in w/ 13qt water @ 166.6ºF (Step temp: 152ºF for 60 min)
+* Batch sparge, 4 steps: 1 gal, 2 gal, 2 gal, 2 gal 
+
+## Kettle Schedule
+
+| Amt     | Name                                     | Type   | %/IBU    |
+|---------|------------------------------------------|:------:|---------:|
+| 3.0  oz | Tettnang [2.10 %] - Boil 105.0 min       | Hop    | 22.0 IBU |
+| 0.5  oz | Tettnang [2.95 %] - Boil 45 min          | Hop    |  4.4 IBU |
+| 2    ct | Whirlfloc Tablet (Boil 15.0 mins)        | Fining |        - |
+
+## Fermentation Schedule
+
+* Aerate
+* Pitch 1 pkg SafAle English Ale (DCL/Fermentis S-04) yeast.
+* Ferment in 69ºF cellar for 3 weeks

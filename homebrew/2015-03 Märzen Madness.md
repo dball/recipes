@@ -1,16 +1,10 @@
 # Märzen Madness
 
-* Brewer: Jeffrey Stanton
-* Style: Oktoberfest/Märzen
 * TYPE: All Grain
-
-## Specs
-
-* Boil: 120 min
+* Style: Oktoberfest/Märzen
 * OG: 14.8 brix (1.061 SG)
 * Color: 10.0 SRM
 * IBUs: 26.4
-* Brewhouse Efficiency: 70.0%
 
 ## Mash Bill
 
@@ -42,6 +36,9 @@
 
 ## Fermentation Schedule
 
+I don't have a place to lager
+
 * Aerate
 * Pitch 1 pkg SafAle English Ale (DCL/Fermentis S-04) yeast.
 * Ferment in 69ºF cellar for 3 weeks
+* Rack into sanitized keg, purge with CO<sub>2</sub>, and return to the cellar until fall

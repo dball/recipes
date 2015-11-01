@@ -21,6 +21,7 @@ Mix and match to your liking.
 * 1/2 unsweetened shaved coconut
 * 1/2 cup chocolate chips
 * 1/2 cup smashed dark chocolate
+* 1/2 cup all-natural peanut butter
 
 ## Preparation
 
@@ -29,7 +30,7 @@ Mix and match to your liking.
 * Use handmixer on high setting to beat until smooth
 * Add sugar, egg, vanilla, baking soda, and salt; mix in gently with a spoon
 * Add flour (and any chocolate chips / etc), mixing in with a spoon
-* Pour into a greased 4x8" loap pan
+* Pour into a greased 4x8" loaf pan
 * Bake for approximately 60 minutes at 350ºF
 
 Loaf is done when a fork inserted in the middle comes out clean.  Let cool on a rack for an hour, then remove from the pan, slice, and enjoy.

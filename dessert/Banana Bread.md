@@ -9,6 +9,7 @@ Delicious and easy to make.  More of a cake than a bread.
 * 1 cup cane sugar
 * 1 egg, beaten
 * 1.5tsp vanilla extract
+* 1 tsp baking soda
 * 1/4 tsp salt
 * 1.5 cups all-purpose flour
 

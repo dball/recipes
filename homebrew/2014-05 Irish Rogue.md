@@ -1,4 +1,4 @@
-# Irish Rogue
+# Irish Rogue 2.1
 
 * Type: All Grain
 * Style: Irish Red Ale

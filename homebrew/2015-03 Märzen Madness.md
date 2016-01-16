@@ -2,7 +2,9 @@
 
 * TYPE: All Grain
 * Style: Oktoberfest/Märzen
-* OG: 14.8 brix (1.061 SG)
+* OG: 1.0611 SG (14.8 brix)
+* FG: 1.0141 SG
+* ABV: 6.3%
 * Color: 10.0 SRM
 * IBUs: 26.4
 
@@ -24,6 +26,7 @@
 * Total grain weight: 13 lbs
 * Single infusion, medium body, batch sparge
 * Mash in w/ 13qt water @ 166.6ºF (Step temp: 152ºF for 60 min)
+* Drain mash tun
 * Batch sparge, 4 steps: 1 gal, 2 gal, 2 gal, 2 gal 
 
 ## Kettle Schedule
@@ -39,6 +42,6 @@
 I don't have a place to lager
 
 * Aerate
-* Pitch 1 pkg SafAle English Ale (DCL/Fermentis S-04) yeast.
+* Pitch 2 pkg SafAle English Ale (DCL/Fermentis S-04) yeast.
 * Ferment in 69ºF cellar for 3 weeks
 * Rack into sanitized keg, purge with CO<sub>2</sub>, and return to the cellar until fall

@@ -1,8 +1,10 @@
 # Mocktoberfest Ale
 
-* TYPE: All Grain
-* Style: Ale Märzen
-* OG: 13.3 brix (1.055 SG)
+* Type: All Grain
+* Style: Ale Märzen / Festbier
+* OG: 1.0556 SG (13.3 brix)
+* FG: 1.0110 SG
+* ABV: 5.62%
 * Color: 11.3 SRM
 * IBUs: 23.0
 
@@ -23,6 +25,7 @@
 * Total grain weight: 12.0 lbs
 * Single infusion, full body, batch sparge
 * Mash in w/ 15qt water  @ 169ºF (Step temp: 156ºF for 60 min)
+* Drain mash tun
 * Batch sparge, 2 steps: 3.0 gal @ 170ºF, 3.5 gal @ 170ºF
 
 ## Kettle Schedule

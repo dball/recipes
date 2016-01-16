@@ -2,8 +2,8 @@
 
 * TYPE: All Grain
 * Style: Oak Aged Imperial Stout
-* OG: 30.0 brix (1.130 SG)
-* FG: 9.3 brix (1.037 SG)
+* OG: 1.130 SG (30.0 brix)
+* FG: 1.037 SG (9.3 brix)
 * ABV: 12.4%
 * Color: 64.9 SRM
 * IBUs: 39.2

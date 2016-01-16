@@ -2,7 +2,9 @@
 
 * TYPE: All Grain
 * Style: Cream Ale
-* OG: 10.5 (1.042 SG)
+* OG: 1.0425 SG (10.5 brix)
+* FG: 1.0044 SG
+* ABV: 5.07%
 * Color: 2.7 SRM
 * IBUs: 17.8
 
@@ -20,6 +22,7 @@
 * Total grain weight: 9.5 lbs
 * Single infusion, light body, batch sparge
 * Mash in w/ 11qt water @ 166ºF (Step temp: 150ºF for 60 min)
+* Drain mash tun
 * Batch sparge, 3 steps: 1 gal, 3 gal, 3 gal
 
 ## Kettle Schedule

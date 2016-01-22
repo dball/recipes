@@ -9,13 +9,16 @@ Adapted from the New York Times' excellent [no-knead bread recipe](http://cookin
 
 ## Ingredients
 
-* 3 cups all-purpose flour
-* 0.25 tsp yeast
-* 1.25 tsp salt
+* 450g all-purpose or bread flour (approx 3 cups)
+* 1.5g yeast (approx 0.25 teaspoons)
+* 8.0g salt (approx 1.25 teaspoons)
+* 360g room-temp water (approx 1.5 cups)
+* 1 head garlic, peeled, chopped roughly
+* 1 pkg fresh rosemary, chopped roughly (approx 15g)
 
 ## Preparation
 
-* In a large bowl, combine all the dry ingredients
+* In a large bowl, combine all ingredients except water
 * Dump in water, stir just until combined
 * Cover, allow dough to rest 18 hours in a slightly warm (~70-75ºF) place.
 * After dough rises, turn out onto floured work surface.
